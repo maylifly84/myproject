@@ -50,22 +50,95 @@ img {
 
 
 /***********************************************************************
- *  Jumbotron LaTeam
+ * Les Jumbotron 
  **********************************************************************/
 
- .jumbotron {
+ .LaTeam  {
 
- 		background-image: url("./img/LaTeam.jpg");
+ 		background-image: url("./img/LaTeam1.jpg");
 	background-repeat: no-repeat;
 	-webkit-background-size:cover;
 	-moz-background-size: cover;
 	-o-background-size:cover;
 	background-size: cover; 
-	
-	padding-bottom: 200px; 
-
+	color: white; /* à modifier */
+	padding-bottom: 500px; 
 
  }
+
+
+ .LaTeam h3 {
+
+ 	padding-top: 150px; 
+ }
+
+  .musicool  {
+
+ 	background-image: url("./img/Casque.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-size: cover; 
+	color: white; /* à modifier */
+	padding-bottom: 500px; 
+
+ }
+
+
+.Picperfect
+{
+
+ 	background-image: url("./img/photo.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-size: cover; 
+	color: white; /* à modifier */
+	height: 100vh; 
+
+ }
+
+ .Sailor
+{
+
+ 	background-image: url("./img/photo.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size:cover;
+	background-size: cover; 
+	color: white; /* à modifier */
+	height: 100vh;  
+
+ }
+
+
+
+ .red {
+
+ 	color: #7B0D1E; 
+ }
+ .yellow {
+
+ 	color: #E0CA3C; 
+ }
+
+ .yellow-divider
+
+ {
+
+ 	background-color: #E0CA3C;
+ 	
+ }
+
+.blue {
+
+ 	color: #0D5D56; 
+ }
+
+
 
 
 
