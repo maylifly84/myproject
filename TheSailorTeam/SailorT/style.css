@@ -62,15 +62,14 @@ img {
 	-o-background-size:cover;
 	background-size: cover; 
 	color: white; /* à modifier */
-	padding-bottom: 500px; 
+	padding-bottom: 100vh; 
 
  }
-
 
  .LaTeam h3 {
-
  	padding-top: 150px; 
  }
+
 
   .musicool  {
 
@@ -84,7 +83,6 @@ img {
 	padding-bottom: 500px; 
 
  }
-
 
 .Picperfect
 {
@@ -103,15 +101,25 @@ img {
  .Sailor
 {
 
- 	background-image: url("./img/photo.jpg");
+ 	background-image: url("./img/watchland.jpg");
 	background-repeat: no-repeat;
 	-webkit-background-size:cover;
 	-moz-background-size: cover;
 	-o-background-size:cover;
 	background-size: cover; 
 	color: white; /* à modifier */
-	height: 100vh;  
+	height: 150vh;  
 
+ }
+ .bigger {
+
+ 	font-weight: bold; 
+ 	font-size: 25px;
+ }
+
+ .heading {
+
+ 	font-weight: bold;
  }
 
 
@@ -119,10 +127,12 @@ img {
  .red {
 
  	color: #7B0D1E; 
+ 	 
  }
  .yellow {
 
  	color: #E0CA3C; 
+ 	 
  }
 
  .yellow-divider
@@ -136,6 +146,7 @@ img {
 .blue {
 
  	color: #0D5D56; 
+
  }
 
 
@@ -147,20 +158,20 @@ img {
  *  Footer
  **********************************************************************/
 
-/*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
+
 /***********************************************************************
  
  **********************************************************************/
 
 
 /***********************************************************************
- *  Red Background
+
  **********************************************************************/
 
 /***********************************************************************
- *  Yellow Background
+
  **********************************************************************/
 
 /***********************************************************************
- *  Blue Background
+
  **********************************************************************/
