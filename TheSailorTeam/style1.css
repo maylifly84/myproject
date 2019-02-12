@@ -139,3 +139,70 @@ a {
   transform: translate3d(0,0,0);
 }
 
+li {
+	list-style: none; 
+}
+/*.section1 {
+
+	background-color: #F1FFFA; 
+}*/
+
+/*.section2 {
+
+	background-color: #E2EBF2;
+}*/
+
+
+.nav-item {
+
+	color: white; 
+	font-weight: bold;
+	font-size: 1em; 
+}
+
+.rounded {
+
+	margin: 3px; 
+}
+
+.avis {
+
+	font-size: 22px; 
+}
+
+/*Image favorites lien vers shop*/
+
+
+.image {
+  height: 220px;
+  width: 220px;
+  margin: 1px 1px;
+  background-size: cover;
+  filter: grayscale(100%);
+  cursor: pointer;
+  transition: .5s;
+  position: relative;
+  z-index: 0;
+}
+
+.image:hover {
+  filter: grayscale(0%);
+  transition: .5s;
+}
+
+.col {
+  display: inline-flex;
+}
+
+.focus {
+  position: absolute;
+  z-index: 1;
+  height: 672px;
+  width: 672px;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  filter: grayscale(0%);
+}
