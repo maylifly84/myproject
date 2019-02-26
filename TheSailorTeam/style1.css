@@ -149,6 +149,8 @@
 	  transform: translate3d(0,0,0);
 	}
 
+	/*F*******IN HOVER sur les images abonnement*/
+
 	li 
 	{
 		list-style: none; 
@@ -218,6 +220,43 @@ hr.style-eight:after {
 font-size: 20px; 
 }
 
+
+.row {
+
+grid-column-gap: 0; 
+}
+
 	/*Image favorites lien vers shop*/
+.insta {
+
+margin-bottom: 0px; 
+margin-top: 0px; 
+margin-right: 0px; 
+
+}
+
+.gal {
+
+	margin-right: 0px; 
+	margin-left: 0px;
+	padding: 0px 0px;  
+}
+
+.inst {
+	
+	margin-top: 100px; 
+	
+}
+
+.col-sm-4{
+
+	text-align: center;
+}
+
+.gallery {
+
+	margin-bottom: 0; 
+}
+
 
 
